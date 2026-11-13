@@ -1,0 +1,14 @@
+Indexes
+
+location1Index
+country -> region -> city -> X
+
+service1Index
+category -> speciality -> X
+
+identityIndex
+nickname -> IdentityT
+
+identitiesIndex
+country -> region -> city -> category -> speciality -> nickname -> IdentityT
+
