@@ -1,1 +1,1 @@
-See github.com/gerard94/skillsclient/install.txt.
+See github.com/gerard94/skillsClient/install.txt.
